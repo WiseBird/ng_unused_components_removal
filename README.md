@@ -1,0 +1,1 @@
+Repo shows that when building in AoT unused components are not included into the bundle.
